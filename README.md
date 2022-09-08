@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**FelipeSantos194/FelipeSantos194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/FelipeSantos194"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos194&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos194&layout=compact&langs_count=7&theme=dark">
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="kF-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="kF-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="kF-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="kF-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="kF-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">         
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
